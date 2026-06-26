@@ -2,15 +2,16 @@ from pathlib import Path
 
 WS_URL = "wss://ws.bitget.com/v2/ws/public"
 INST_IDS = [
-    "XRPUSDT",
-    "SOLUSDT",
-    "DOGEUSDT",
-    "PEPEUSDT",
-    "HYPEUSDT",
+    # "XRPUSDT",
+    # "SOLUSDT",
+    # "DOGEUSDT",
+    # "PEPEUSDT",
+    # "HYPEUSDT",
     "ZECUSDT",
-    "RAVEUSDT",
-    "SPKUSDT",
-    "SUIUSDT",
+    "BTCUSDT",
+    # "RAVEUSDT",
+    # "SPKUSDT",
+    # "SUIUSDT",
 ]
 
 CSV_DIR = Path("csv")
